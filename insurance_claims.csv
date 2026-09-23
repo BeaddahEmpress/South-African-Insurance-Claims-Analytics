@@ -1,0 +1,1001 @@
+claim_id,claim_date,province,claim_types,claim_amount,claim_status
+1,2025-01-01,Northern Cape,Business Insurance,17369,Pending
+2,2025-01-02,KwaZulu-Natal,Business Insurance,4041,Pending
+3,2025-01-03,Limpopo,Business Insurance,1105,Rejected
+4,2025-01-04,Northern Cape,Motor Vehicle,10078,Approved
+5,2025-01-05,Gauteng,Life Insurance,26003,Rejected
+6,2025-01-06,North West,Motor Vehicle,7090,Approved
+7,2025-01-07,Limpopo,Life Insurance,39850,Pending
+8,2025-01-08,Limpopo,Motor Vehicle,2925,Pending
+9,2025-01-09,Northern Cape,Motor Vehicle,19440,Pending
+10,2025-01-10,Free State,Home Insurance,40685,Approved
+11,2025-01-11,Gauteng,Motor Vehicle,27015,Pending
+12,2025-01-12,Northern Cape,Health Insurance,34320,Approved
+13,2025-01-13,Gauteng,Home Insurance,26291,Rejected
+14,2025-01-14,Gauteng,Motor Vehicle,37679,Approved
+15,2025-01-15,North West,Business Insurance,27289,Rejected
+16,2025-01-16,Limpopo,Health Insurance,4389,Approved
+17,2025-01-17,KwaZulu-Natal,Health Insurance,26683,Rejected
+18,2025-01-18,North West,Health Insurance,14629,Pending
+19,2025-01-19,North West,Home Insurance,25826,Rejected
+20,2025-01-20,Gauteng,Motor Vehicle,36198,Pending
+21,2025-01-21,Mpumalanga,Motor Vehicle,27630,Pending
+22,2025-01-22,Limpopo,Business Insurance,34226,Rejected
+23,2025-01-23,Free State,Business Insurance,47163,Approved
+24,2025-01-24,North West,Health Insurance,33975,Approved
+25,2025-01-25,KwaZulu-Natal,Business Insurance,1899,Approved
+26,2025-01-26,Mpumalanga,Home Insurance,12653,Approved
+27,2025-01-27,Mpumalanga,Motor Vehicle,28961,Approved
+28,2025-01-28,Free State,Health Insurance,17405,Pending
+29,2025-01-29,North West,Business Insurance,9601,Approved
+30,2025-01-30,KwaZulu-Natal,Home Insurance,34662,Pending
+31,2025-01-31,Limpopo,Home Insurance,34282,Pending
+32,2025-02-01,Eastern Cape,Business Insurance,22288,Pending
+33,2025-02-02,KwaZulu-Natal,Motor Vehicle,30545,Rejected
+34,2025-02-03,Free State,Business Insurance,37877,Rejected
+35,2025-02-04,Mpumalanga,Health Insurance,47026,Pending
+36,2025-02-05,Limpopo,Business Insurance,16313,Rejected
+37,2025-02-06,KwaZulu-Natal,Home Insurance,16349,Approved
+38,2025-02-07,Eastern Cape,Business Insurance,8179,Approved
+39,2025-02-08,Eastern Cape,Motor Vehicle,11326,Pending
+40,2025-02-09,Gauteng,Life Insurance,45555,Approved
+41,2025-02-10,Gauteng,Business Insurance,2560,Pending
+42,2025-02-11,Northern Cape,Motor Vehicle,14612,Pending
+43,2025-02-12,Free State,Motor Vehicle,18650,Approved
+44,2025-02-13,North West,Home Insurance,27745,Rejected
+45,2025-02-14,KwaZulu-Natal,Motor Vehicle,32890,Approved
+46,2025-02-15,KwaZulu-Natal,Motor Vehicle,21022,Approved
+47,2025-02-16,North West,Motor Vehicle,5780,Pending
+48,2025-02-17,Northern Cape,Motor Vehicle,19311,Pending
+49,2025-02-18,Mpumalanga,Health Insurance,29380,Pending
+50,2025-02-19,Mpumalanga,Health Insurance,45662,Pending
+51,2025-02-20,Northern Cape,Home Insurance,3356,Rejected
+52,2025-02-21,Mpumalanga,Business Insurance,5790,Rejected
+53,2025-02-22,Gauteng,Motor Vehicle,27911,Rejected
+54,2025-02-23,KwaZulu-Natal,Business Insurance,25363,Pending
+55,2025-02-24,Northern Cape,Business Insurance,21049,Pending
+56,2025-02-25,KwaZulu-Natal,Home Insurance,11181,Pending
+57,2025-02-26,North West,Motor Vehicle,40825,Rejected
+58,2025-02-27,Eastern Cape,Motor Vehicle,17082,Pending
+59,2025-02-28,Gauteng,Life Insurance,1661,Approved
+60,2025-03-01,Limpopo,Business Insurance,38412,Approved
+61,2025-03-02,Gauteng,Business Insurance,49479,Pending
+62,2025-03-03,Northern Cape,Health Insurance,3920,Approved
+63,2025-03-04,Limpopo,Life Insurance,26658,Approved
+64,2025-03-05,Eastern Cape,Health Insurance,49770,Rejected
+65,2025-03-06,Northern Cape,Health Insurance,15025,Pending
+66,2025-03-07,Free State,Health Insurance,9946,Pending
+67,2025-03-08,KwaZulu-Natal,Home Insurance,29706,Rejected
+68,2025-03-09,Eastern Cape,Home Insurance,46500,Approved
+69,2025-03-10,KwaZulu-Natal,Health Insurance,40004,Approved
+70,2025-03-11,Mpumalanga,Life Insurance,17309,Pending
+71,2025-03-12,Free State,Business Insurance,47286,Approved
+72,2025-03-13,Free State,Life Insurance,34120,Rejected
+73,2025-03-14,Eastern Cape,Motor Vehicle,31027,Rejected
+74,2025-03-15,Free State,Home Insurance,8005,Pending
+75,2025-03-16,Limpopo,Business Insurance,47804,Rejected
+76,2025-03-17,Free State,Business Insurance,1956,Rejected
+77,2025-03-18,KwaZulu-Natal,Motor Vehicle,35839,Pending
+78,2025-03-19,KwaZulu-Natal,Motor Vehicle,9595,Rejected
+79,2025-03-20,Northern Cape,Health Insurance,48908,Rejected
+80,2025-03-21,KwaZulu-Natal,Home Insurance,13803,Rejected
+81,2025-03-22,Northern Cape,Home Insurance,26963,Approved
+82,2025-03-23,KwaZulu-Natal,Life Insurance,37221,Pending
+83,2025-03-24,Limpopo,Health Insurance,40443,Pending
+84,2025-03-25,North West,Health Insurance,34723,Pending
+85,2025-03-26,Northern Cape,Health Insurance,40063,Approved
+86,2025-03-27,Gauteng,Health Insurance,49689,Approved
+87,2025-03-28,Mpumalanga,Home Insurance,16282,Pending
+88,2025-03-29,Eastern Cape,Home Insurance,5703,Approved
+89,2025-03-30,KwaZulu-Natal,Health Insurance,7563,Pending
+90,2025-03-31,Free State,Life Insurance,26849,Approved
+91,2025-04-01,North West,Business Insurance,32860,Rejected
+92,2025-04-02,KwaZulu-Natal,Business Insurance,32585,Rejected
+93,2025-04-03,Free State,Life Insurance,23015,Pending
+94,2025-04-04,Mpumalanga,Health Insurance,13003,Approved
+95,2025-04-05,Mpumalanga,Home Insurance,44585,Approved
+96,2025-04-06,Mpumalanga,Business Insurance,27958,Rejected
+97,2025-04-07,Free State,Motor Vehicle,27017,Rejected
+98,2025-04-08,KwaZulu-Natal,Motor Vehicle,12171,Approved
+99,2025-04-09,Mpumalanga,Life Insurance,46350,Approved
+100,2025-04-10,Limpopo,Health Insurance,13201,Approved
+101,2025-04-11,Northern Cape,Business Insurance,30426,Approved
+102,2025-04-12,Free State,Health Insurance,18778,Approved
+103,2025-04-13,Free State,Business Insurance,46241,Approved
+104,2025-04-14,KwaZulu-Natal,Life Insurance,43229,Pending
+105,2025-04-15,Free State,Life Insurance,22116,Approved
+106,2025-04-16,Free State,Motor Vehicle,49364,Rejected
+107,2025-04-17,Mpumalanga,Health Insurance,34297,Pending
+108,2025-04-18,KwaZulu-Natal,Motor Vehicle,20342,Approved
+109,2025-04-19,Mpumalanga,Health Insurance,28490,Rejected
+110,2025-04-20,Northern Cape,Motor Vehicle,20975,Pending
+111,2025-04-21,North West,Home Insurance,27723,Rejected
+112,2025-04-22,Northern Cape,Home Insurance,24279,Approved
+113,2025-04-23,North West,Home Insurance,13765,Approved
+114,2025-04-24,Mpumalanga,Home Insurance,47678,Approved
+115,2025-04-25,Northern Cape,Business Insurance,12561,Approved
+116,2025-04-26,KwaZulu-Natal,Home Insurance,42899,Pending
+117,2025-04-27,Eastern Cape,Life Insurance,1525,Pending
+118,2025-04-28,Mpumalanga,Life Insurance,23861,Rejected
+119,2025-04-29,North West,Business Insurance,34142,Approved
+120,2025-04-30,Limpopo,Home Insurance,27916,Rejected
+121,2025-05-01,North West,Home Insurance,45965,Pending
+122,2025-05-02,Limpopo,Home Insurance,5648,Approved
+123,2025-05-03,Free State,Motor Vehicle,36133,Approved
+124,2025-05-04,Northern Cape,Health Insurance,31523,Pending
+125,2025-05-05,Limpopo,Motor Vehicle,30052,Pending
+126,2025-05-06,North West,Health Insurance,35414,Pending
+127,2025-05-07,Free State,Home Insurance,33781,Pending
+128,2025-05-08,Eastern Cape,Home Insurance,5599,Pending
+129,2025-05-09,KwaZulu-Natal,Motor Vehicle,36046,Approved
+130,2025-05-10,KwaZulu-Natal,Motor Vehicle,48064,Pending
+131,2025-05-11,KwaZulu-Natal,Health Insurance,36923,Approved
+132,2025-05-12,Limpopo,Life Insurance,42089,Approved
+133,2025-05-13,Eastern Cape,Health Insurance,4814,Pending
+134,2025-05-14,Limpopo,Motor Vehicle,46893,Pending
+135,2025-05-15,Northern Cape,Motor Vehicle,36984,Approved
+136,2025-05-16,Limpopo,Business Insurance,27616,Pending
+137,2025-05-17,Eastern Cape,Motor Vehicle,3113,Pending
+138,2025-05-18,Eastern Cape,Business Insurance,44006,Pending
+139,2025-05-19,Northern Cape,Life Insurance,14760,Rejected
+140,2025-05-20,Eastern Cape,Health Insurance,22927,Approved
+141,2025-05-21,North West,Health Insurance,21939,Rejected
+142,2025-05-22,Eastern Cape,Business Insurance,33419,Pending
+143,2025-05-23,KwaZulu-Natal,Health Insurance,13588,Rejected
+144,2025-05-24,North West,Motor Vehicle,37142,Pending
+145,2025-05-25,North West,Home Insurance,40198,Rejected
+146,2025-05-26,Northern Cape,Business Insurance,45738,Pending
+147,2025-05-27,Gauteng,Health Insurance,34397,Rejected
+148,2025-05-28,Gauteng,Business Insurance,17653,Rejected
+149,2025-05-29,Eastern Cape,Business Insurance,11831,Rejected
+150,2025-05-30,North West,Home Insurance,6724,Approved
+151,2025-05-31,Gauteng,Motor Vehicle,12083,Rejected
+152,2025-06-01,Gauteng,Business Insurance,46917,Approved
+153,2025-06-02,Eastern Cape,Health Insurance,20816,Pending
+154,2025-06-03,Gauteng,Life Insurance,43240,Rejected
+155,2025-06-04,Limpopo,Business Insurance,7276,Pending
+156,2025-06-05,Free State,Business Insurance,49403,Pending
+157,2025-06-06,Northern Cape,Home Insurance,39663,Rejected
+158,2025-06-07,Free State,Motor Vehicle,14994,Approved
+159,2025-06-08,Eastern Cape,Life Insurance,24499,Rejected
+160,2025-06-09,KwaZulu-Natal,Health Insurance,24040,Pending
+161,2025-06-10,Northern Cape,Life Insurance,44320,Pending
+162,2025-06-11,Eastern Cape,Health Insurance,17959,Rejected
+163,2025-06-12,North West,Motor Vehicle,7099,Approved
+164,2025-06-13,KwaZulu-Natal,Health Insurance,43267,Approved
+165,2025-06-14,Free State,Home Insurance,20576,Pending
+166,2025-06-15,Eastern Cape,Home Insurance,36946,Pending
+167,2025-06-16,North West,Home Insurance,7116,Approved
+168,2025-06-17,Northern Cape,Home Insurance,16563,Rejected
+169,2025-06-18,Northern Cape,Life Insurance,27788,Pending
+170,2025-06-19,Mpumalanga,Motor Vehicle,27928,Approved
+171,2025-06-20,North West,Health Insurance,37336,Pending
+172,2025-06-21,Limpopo,Health Insurance,10847,Rejected
+173,2025-06-22,Gauteng,Home Insurance,27155,Approved
+174,2025-06-23,KwaZulu-Natal,Home Insurance,15135,Pending
+175,2025-06-24,North West,Business Insurance,18774,Rejected
+176,2025-06-25,Mpumalanga,Motor Vehicle,2742,Pending
+177,2025-06-26,Gauteng,Life Insurance,19309,Rejected
+178,2025-06-27,Gauteng,Health Insurance,1619,Rejected
+179,2025-06-28,Eastern Cape,Business Insurance,18658,Approved
+180,2025-06-29,Gauteng,Business Insurance,35707,Rejected
+181,2025-06-30,Limpopo,Health Insurance,21337,Pending
+182,2025-07-01,Northern Cape,Life Insurance,17001,Rejected
+183,2025-07-02,Mpumalanga,Business Insurance,1968,Rejected
+184,2025-07-03,Gauteng,Business Insurance,48614,Approved
+185,2025-07-04,Eastern Cape,Motor Vehicle,26892,Rejected
+186,2025-07-05,Limpopo,Life Insurance,26619,Rejected
+187,2025-07-06,Free State,Business Insurance,1281,Pending
+188,2025-07-07,Northern Cape,Life Insurance,28420,Approved
+189,2025-07-08,Northern Cape,Health Insurance,16360,Approved
+190,2025-07-09,Mpumalanga,Home Insurance,40030,Approved
+191,2025-07-10,Northern Cape,Business Insurance,2058,Rejected
+192,2025-07-11,Gauteng,Motor Vehicle,21677,Approved
+193,2025-07-12,Eastern Cape,Health Insurance,11724,Rejected
+194,2025-07-13,Northern Cape,Life Insurance,29404,Rejected
+195,2025-07-14,Northern Cape,Health Insurance,38946,Pending
+196,2025-07-15,Free State,Business Insurance,40748,Pending
+197,2025-07-16,Free State,Life Insurance,30856,Pending
+198,2025-07-17,KwaZulu-Natal,Home Insurance,10200,Pending
+199,2025-07-18,Limpopo,Health Insurance,34997,Pending
+200,2025-07-19,Gauteng,Business Insurance,26611,Rejected
+201,2025-07-20,Northern Cape,Motor Vehicle,42235,Rejected
+202,2025-07-21,North West,Life Insurance,36057,Approved
+203,2025-07-22,Northern Cape,Health Insurance,2239,Rejected
+204,2025-07-23,Eastern Cape,Health Insurance,39138,Rejected
+205,2025-07-24,KwaZulu-Natal,Home Insurance,49938,Pending
+206,2025-07-25,Limpopo,Home Insurance,1125,Rejected
+207,2025-07-26,North West,Motor Vehicle,46272,Pending
+208,2025-07-27,KwaZulu-Natal,Motor Vehicle,24857,Approved
+209,2025-07-28,Mpumalanga,Business Insurance,16398,Approved
+210,2025-07-29,Limpopo,Business Insurance,7638,Rejected
+211,2025-07-30,Northern Cape,Motor Vehicle,7570,Approved
+212,2025-07-31,Northern Cape,Motor Vehicle,4249,Rejected
+213,2025-08-01,Limpopo,Life Insurance,10110,Approved
+214,2025-08-02,Northern Cape,Home Insurance,41363,Pending
+215,2025-08-03,Gauteng,Business Insurance,14605,Pending
+216,2025-08-04,Limpopo,Home Insurance,13115,Pending
+217,2025-08-05,KwaZulu-Natal,Home Insurance,40062,Pending
+218,2025-08-06,Limpopo,Motor Vehicle,23911,Rejected
+219,2025-08-07,North West,Life Insurance,39525,Approved
+220,2025-08-08,Northern Cape,Health Insurance,33556,Rejected
+221,2025-08-09,Gauteng,Life Insurance,13595,Pending
+222,2025-08-10,Gauteng,Life Insurance,2969,Rejected
+223,2025-08-11,Mpumalanga,Home Insurance,44753,Approved
+224,2025-08-12,KwaZulu-Natal,Life Insurance,18275,Rejected
+225,2025-08-13,Free State,Business Insurance,5470,Approved
+226,2025-08-14,Free State,Home Insurance,11225,Rejected
+227,2025-08-15,Limpopo,Business Insurance,43324,Approved
+228,2025-08-16,Mpumalanga,Health Insurance,42974,Approved
+229,2025-08-17,Eastern Cape,Home Insurance,43759,Pending
+230,2025-08-18,Limpopo,Health Insurance,24196,Approved
+231,2025-08-19,Mpumalanga,Home Insurance,41287,Pending
+232,2025-08-20,KwaZulu-Natal,Motor Vehicle,14669,Pending
+233,2025-08-21,KwaZulu-Natal,Life Insurance,38380,Pending
+234,2025-08-22,KwaZulu-Natal,Motor Vehicle,46141,Rejected
+235,2025-08-23,KwaZulu-Natal,Health Insurance,49320,Rejected
+236,2025-08-24,KwaZulu-Natal,Life Insurance,48414,Rejected
+237,2025-08-25,Mpumalanga,Home Insurance,39006,Rejected
+238,2025-08-26,Mpumalanga,Life Insurance,16577,Approved
+239,2025-08-27,Gauteng,Business Insurance,23473,Approved
+240,2025-08-28,North West,Life Insurance,29625,Rejected
+241,2025-08-29,Free State,Business Insurance,16504,Approved
+242,2025-08-30,Northern Cape,Life Insurance,25089,Approved
+243,2025-08-31,KwaZulu-Natal,Business Insurance,37487,Pending
+244,2025-09-01,Eastern Cape,Health Insurance,1302,Pending
+245,2025-09-02,Northern Cape,Motor Vehicle,32463,Pending
+246,2025-09-03,Mpumalanga,Home Insurance,45912,Pending
+247,2025-09-04,Eastern Cape,Life Insurance,30259,Approved
+248,2025-09-05,Eastern Cape,Motor Vehicle,43823,Rejected
+249,2025-09-06,Eastern Cape,Home Insurance,38208,Approved
+250,2025-09-07,Gauteng,Home Insurance,31659,Approved
+251,2025-09-08,Mpumalanga,Business Insurance,36840,Approved
+252,2025-09-09,Eastern Cape,Health Insurance,32890,Pending
+253,2025-09-10,KwaZulu-Natal,Health Insurance,14598,Pending
+254,2025-09-11,Limpopo,Motor Vehicle,48055,Pending
+255,2025-09-12,Eastern Cape,Health Insurance,47733,Rejected
+256,2025-09-13,Gauteng,Life Insurance,20508,Approved
+257,2025-09-14,Northern Cape,Health Insurance,43287,Rejected
+258,2025-09-15,Mpumalanga,Motor Vehicle,14380,Pending
+259,2025-09-16,North West,Health Insurance,27984,Rejected
+260,2025-09-17,Gauteng,Life Insurance,45633,Approved
+261,2025-09-18,Eastern Cape,Business Insurance,9125,Approved
+262,2025-09-19,Mpumalanga,Motor Vehicle,37059,Pending
+263,2025-09-20,Limpopo,Business Insurance,5033,Pending
+264,2025-09-21,Eastern Cape,Business Insurance,38873,Rejected
+265,2025-09-22,Gauteng,Business Insurance,18087,Pending
+266,2025-09-23,Free State,Home Insurance,41901,Pending
+267,2025-09-24,KwaZulu-Natal,Home Insurance,6704,Approved
+268,2025-09-25,North West,Business Insurance,8848,Pending
+269,2025-09-26,Northern Cape,Motor Vehicle,22592,Pending
+270,2025-09-27,Gauteng,Life Insurance,46743,Approved
+271,2025-09-28,Mpumalanga,Life Insurance,7924,Approved
+272,2025-09-29,North West,Health Insurance,28208,Rejected
+273,2025-09-30,North West,Motor Vehicle,20614,Pending
+274,2025-10-01,North West,Home Insurance,1488,Approved
+275,2025-10-02,Eastern Cape,Business Insurance,40882,Rejected
+276,2025-10-03,KwaZulu-Natal,Health Insurance,26923,Rejected
+277,2025-10-04,Eastern Cape,Life Insurance,49508,Pending
+278,2025-10-05,Mpumalanga,Home Insurance,36941,Pending
+279,2025-10-06,Eastern Cape,Home Insurance,30165,Rejected
+280,2025-10-07,Free State,Business Insurance,2667,Approved
+281,2025-10-08,KwaZulu-Natal,Life Insurance,27213,Rejected
+282,2025-10-09,KwaZulu-Natal,Motor Vehicle,5114,Pending
+283,2025-10-10,Mpumalanga,Home Insurance,37321,Approved
+284,2025-10-11,Northern Cape,Business Insurance,8761,Approved
+285,2025-10-12,Free State,Motor Vehicle,32116,Rejected
+286,2025-10-13,Gauteng,Life Insurance,34768,Pending
+287,2025-10-14,Eastern Cape,Home Insurance,49406,Rejected
+288,2025-10-15,Limpopo,Motor Vehicle,26426,Rejected
+289,2025-10-16,Eastern Cape,Motor Vehicle,18772,Rejected
+290,2025-10-17,North West,Motor Vehicle,39218,Approved
+291,2025-10-18,Eastern Cape,Home Insurance,4712,Approved
+292,2025-10-19,Gauteng,Home Insurance,2367,Pending
+293,2025-10-20,Eastern Cape,Health Insurance,41957,Pending
+294,2025-10-21,Free State,Life Insurance,42781,Rejected
+295,2025-10-22,Free State,Business Insurance,27200,Rejected
+296,2025-10-23,KwaZulu-Natal,Motor Vehicle,4726,Rejected
+297,2025-10-24,Mpumalanga,Health Insurance,24616,Pending
+298,2025-10-25,Northern Cape,Business Insurance,28723,Approved
+299,2025-10-26,Limpopo,Health Insurance,38574,Approved
+300,2025-10-27,North West,Home Insurance,35958,Rejected
+301,2025-10-28,Eastern Cape,Motor Vehicle,10108,Rejected
+302,2025-10-29,Eastern Cape,Business Insurance,13178,Rejected
+303,2025-10-30,Gauteng,Business Insurance,36643,Rejected
+304,2025-10-31,Mpumalanga,Business Insurance,32324,Pending
+305,2025-11-01,Free State,Business Insurance,39360,Approved
+306,2025-11-02,Limpopo,Business Insurance,18824,Rejected
+307,2025-11-03,KwaZulu-Natal,Health Insurance,46360,Pending
+308,2025-11-04,Free State,Motor Vehicle,9927,Rejected
+309,2025-11-05,North West,Home Insurance,29144,Rejected
+310,2025-11-06,Mpumalanga,Home Insurance,32010,Approved
+311,2025-11-07,North West,Home Insurance,23443,Rejected
+312,2025-11-08,Northern Cape,Home Insurance,15437,Approved
+313,2025-11-09,KwaZulu-Natal,Health Insurance,45298,Approved
+314,2025-11-10,Northern Cape,Life Insurance,40778,Approved
+315,2025-11-11,Gauteng,Motor Vehicle,12207,Pending
+316,2025-11-12,North West,Business Insurance,26537,Pending
+317,2025-11-13,Gauteng,Life Insurance,36757,Approved
+318,2025-11-14,Eastern Cape,Home Insurance,13040,Rejected
+319,2025-11-15,Northern Cape,Life Insurance,42986,Approved
+320,2025-11-16,Mpumalanga,Motor Vehicle,23612,Rejected
+321,2025-11-17,North West,Business Insurance,29441,Approved
+322,2025-11-18,Limpopo,Business Insurance,7471,Rejected
+323,2025-11-19,KwaZulu-Natal,Motor Vehicle,36631,Pending
+324,2025-11-20,Free State,Motor Vehicle,44461,Rejected
+325,2025-11-21,Mpumalanga,Home Insurance,27523,Approved
+326,2025-11-22,Mpumalanga,Business Insurance,32348,Pending
+327,2025-11-23,Gauteng,Life Insurance,2177,Rejected
+328,2025-11-24,Northern Cape,Health Insurance,5760,Rejected
+329,2025-11-25,North West,Health Insurance,33779,Rejected
+330,2025-11-26,North West,Motor Vehicle,22636,Rejected
+331,2025-11-27,Eastern Cape,Home Insurance,17353,Rejected
+332,2025-11-28,Eastern Cape,Health Insurance,12556,Pending
+333,2025-11-29,KwaZulu-Natal,Business Insurance,28598,Pending
+334,2025-11-30,Gauteng,Motor Vehicle,12563,Pending
+335,2025-12-01,Mpumalanga,Life Insurance,47819,Pending
+336,2025-12-02,North West,Motor Vehicle,44790,Approved
+337,2025-12-03,Limpopo,Life Insurance,9234,Pending
+338,2025-12-04,Gauteng,Motor Vehicle,26519,Rejected
+339,2025-12-05,KwaZulu-Natal,Motor Vehicle,27966,Rejected
+340,2025-12-06,KwaZulu-Natal,Motor Vehicle,17173,Pending
+341,2025-12-07,Gauteng,Life Insurance,27987,Rejected
+342,2025-12-08,KwaZulu-Natal,Life Insurance,14178,Pending
+343,2025-12-09,Gauteng,Motor Vehicle,40338,Rejected
+344,2025-12-10,Free State,Health Insurance,25596,Approved
+345,2025-12-11,Gauteng,Home Insurance,34174,Approved
+346,2025-12-12,Northern Cape,Home Insurance,42974,Pending
+347,2025-12-13,Gauteng,Home Insurance,5431,Pending
+348,2025-12-14,KwaZulu-Natal,Life Insurance,28764,Pending
+349,2025-12-15,North West,Life Insurance,22627,Rejected
+350,2025-12-16,Northern Cape,Health Insurance,40310,Pending
+351,2025-12-17,KwaZulu-Natal,Home Insurance,9906,Approved
+352,2025-12-18,Eastern Cape,Home Insurance,37914,Rejected
+353,2025-12-19,Eastern Cape,Motor Vehicle,45814,Pending
+354,2025-12-20,North West,Life Insurance,46379,Rejected
+355,2025-12-21,North West,Home Insurance,14076,Rejected
+356,2025-12-22,Northern Cape,Health Insurance,38650,Pending
+357,2025-12-23,Free State,Health Insurance,47881,Rejected
+358,2025-12-24,North West,Home Insurance,47413,Approved
+359,2025-12-25,Eastern Cape,Life Insurance,7012,Approved
+360,2025-12-26,Gauteng,Health Insurance,8151,Rejected
+361,2025-12-27,KwaZulu-Natal,Motor Vehicle,29211,Pending
+362,2025-12-28,Eastern Cape,Health Insurance,28117,Rejected
+363,2025-12-29,Eastern Cape,Business Insurance,37378,Approved
+364,2025-12-30,Free State,Business Insurance,43652,Rejected
+365,2025-12-31,Northern Cape,Life Insurance,7894,Rejected
+366,2026-01-01,Northern Cape,Home Insurance,14467,Approved
+367,2026-01-02,Mpumalanga,Life Insurance,32010,Rejected
+368,2026-01-03,Free State,Life Insurance,43641,Rejected
+369,2026-01-04,Gauteng,Life Insurance,13289,Pending
+370,2026-01-05,Northern Cape,Life Insurance,45976,Pending
+371,2026-01-06,KwaZulu-Natal,Motor Vehicle,44596,Approved
+372,2026-01-07,North West,Motor Vehicle,24171,Approved
+373,2026-01-08,Free State,Health Insurance,35905,Approved
+374,2026-01-09,North West,Business Insurance,21829,Pending
+375,2026-01-10,Eastern Cape,Life Insurance,35054,Approved
+376,2026-01-11,KwaZulu-Natal,Health Insurance,49478,Approved
+377,2026-01-12,KwaZulu-Natal,Business Insurance,45139,Approved
+378,2026-01-13,Eastern Cape,Home Insurance,49713,Pending
+379,2026-01-14,Free State,Motor Vehicle,30734,Rejected
+380,2026-01-15,Eastern Cape,Business Insurance,8052,Approved
+381,2026-01-16,North West,Home Insurance,4654,Rejected
+382,2026-01-17,Mpumalanga,Business Insurance,24486,Approved
+383,2026-01-18,KwaZulu-Natal,Motor Vehicle,19743,Rejected
+384,2026-01-19,Limpopo,Motor Vehicle,49368,Pending
+385,2026-01-20,Limpopo,Health Insurance,25489,Pending
+386,2026-01-21,North West,Life Insurance,9636,Approved
+387,2026-01-22,Gauteng,Business Insurance,7441,Rejected
+388,2026-01-23,Northern Cape,Business Insurance,25611,Pending
+389,2026-01-24,Eastern Cape,Home Insurance,43435,Approved
+390,2026-01-25,Eastern Cape,Motor Vehicle,13149,Approved
+391,2026-01-26,Gauteng,Business Insurance,35566,Pending
+392,2026-01-27,Gauteng,Motor Vehicle,43368,Pending
+393,2026-01-28,North West,Business Insurance,22675,Approved
+394,2026-01-29,North West,Health Insurance,6495,Rejected
+395,2026-01-30,Gauteng,Life Insurance,43668,Rejected
+396,2026-01-31,KwaZulu-Natal,Business Insurance,14673,Rejected
+397,2026-02-01,North West,Motor Vehicle,12130,Approved
+398,2026-02-02,Mpumalanga,Health Insurance,23668,Pending
+399,2026-02-03,North West,Business Insurance,16222,Approved
+400,2026-02-04,Eastern Cape,Home Insurance,24669,Pending
+401,2026-02-05,North West,Life Insurance,35068,Rejected
+402,2026-02-06,KwaZulu-Natal,Business Insurance,24253,Rejected
+403,2026-02-07,Gauteng,Health Insurance,10435,Pending
+404,2026-02-08,Eastern Cape,Home Insurance,29552,Pending
+405,2026-02-09,North West,Health Insurance,38384,Approved
+406,2026-02-10,KwaZulu-Natal,Health Insurance,17393,Rejected
+407,2026-02-11,Mpumalanga,Home Insurance,11617,Approved
+408,2026-02-12,North West,Health Insurance,39520,Approved
+409,2026-02-13,KwaZulu-Natal,Home Insurance,10852,Approved
+410,2026-02-14,Mpumalanga,Business Insurance,32401,Rejected
+411,2026-02-15,Gauteng,Home Insurance,7295,Approved
+412,2026-02-16,North West,Home Insurance,36993,Approved
+413,2026-02-17,Mpumalanga,Life Insurance,35084,Approved
+414,2026-02-18,Eastern Cape,Home Insurance,46105,Approved
+415,2026-02-19,Gauteng,Home Insurance,40575,Approved
+416,2026-02-20,Eastern Cape,Business Insurance,37451,Approved
+417,2026-02-21,Limpopo,Life Insurance,8227,Rejected
+418,2026-02-22,Free State,Motor Vehicle,32910,Approved
+419,2026-02-23,North West,Business Insurance,37041,Pending
+420,2026-02-24,Mpumalanga,Business Insurance,24384,Approved
+421,2026-02-25,Free State,Motor Vehicle,1145,Approved
+422,2026-02-26,Free State,Home Insurance,38778,Rejected
+423,2026-02-27,Mpumalanga,Health Insurance,17035,Rejected
+424,2026-02-28,Gauteng,Life Insurance,4040,Pending
+425,2026-03-01,North West,Health Insurance,43422,Pending
+426,2026-03-02,Limpopo,Motor Vehicle,27160,Rejected
+427,2026-03-03,Eastern Cape,Business Insurance,18633,Rejected
+428,2026-03-04,KwaZulu-Natal,Business Insurance,30344,Approved
+429,2026-03-05,Eastern Cape,Life Insurance,18014,Rejected
+430,2026-03-06,KwaZulu-Natal,Business Insurance,15996,Pending
+431,2026-03-07,Eastern Cape,Business Insurance,42621,Approved
+432,2026-03-08,Mpumalanga,Life Insurance,12695,Pending
+433,2026-03-09,Limpopo,Life Insurance,3852,Approved
+434,2026-03-10,North West,Motor Vehicle,17014,Rejected
+435,2026-03-11,KwaZulu-Natal,Business Insurance,28042,Pending
+436,2026-03-12,North West,Business Insurance,34755,Approved
+437,2026-03-13,North West,Motor Vehicle,41390,Approved
+438,2026-03-14,North West,Home Insurance,24711,Rejected
+439,2026-03-15,Northern Cape,Home Insurance,27122,Rejected
+440,2026-03-16,Gauteng,Home Insurance,10160,Rejected
+441,2026-03-17,Eastern Cape,Motor Vehicle,28213,Pending
+442,2026-03-18,North West,Business Insurance,40420,Approved
+443,2026-03-19,Eastern Cape,Motor Vehicle,8421,Rejected
+444,2026-03-20,North West,Motor Vehicle,22400,Pending
+445,2026-03-21,KwaZulu-Natal,Home Insurance,34537,Pending
+446,2026-03-22,Gauteng,Health Insurance,18727,Pending
+447,2026-03-23,Gauteng,Business Insurance,47882,Rejected
+448,2026-03-24,Mpumalanga,Home Insurance,5358,Rejected
+449,2026-03-25,Northern Cape,Health Insurance,29482,Approved
+450,2026-03-26,Mpumalanga,Health Insurance,33117,Approved
+451,2026-03-27,Mpumalanga,Life Insurance,24164,Rejected
+452,2026-03-28,Mpumalanga,Business Insurance,32910,Pending
+453,2026-03-29,Mpumalanga,Health Insurance,33496,Pending
+454,2026-03-30,Mpumalanga,Home Insurance,45311,Pending
+455,2026-03-31,Limpopo,Life Insurance,30371,Approved
+456,2026-04-01,Gauteng,Business Insurance,39467,Pending
+457,2026-04-02,Mpumalanga,Motor Vehicle,18625,Approved
+458,2026-04-03,North West,Home Insurance,34893,Approved
+459,2026-04-04,Gauteng,Health Insurance,11793,Pending
+460,2026-04-05,Gauteng,Health Insurance,32007,Pending
+461,2026-04-06,Free State,Home Insurance,26766,Rejected
+462,2026-04-07,Limpopo,Health Insurance,40532,Rejected
+463,2026-04-08,Mpumalanga,Life Insurance,13323,Pending
+464,2026-04-09,Eastern Cape,Business Insurance,46799,Approved
+465,2026-04-10,KwaZulu-Natal,Life Insurance,47820,Approved
+466,2026-04-11,Northern Cape,Health Insurance,46408,Approved
+467,2026-04-12,North West,Motor Vehicle,8843,Approved
+468,2026-04-13,Eastern Cape,Business Insurance,15210,Approved
+469,2026-04-14,Limpopo,Business Insurance,17456,Rejected
+470,2026-04-15,KwaZulu-Natal,Home Insurance,32367,Pending
+471,2026-04-16,Limpopo,Home Insurance,11106,Rejected
+472,2026-04-17,North West,Motor Vehicle,38957,Approved
+473,2026-04-18,Gauteng,Business Insurance,3472,Approved
+474,2026-04-19,KwaZulu-Natal,Motor Vehicle,7704,Approved
+475,2026-04-20,Gauteng,Home Insurance,4713,Approved
+476,2026-04-21,North West,Home Insurance,6051,Pending
+477,2026-04-22,Eastern Cape,Business Insurance,11756,Approved
+478,2026-04-23,North West,Life Insurance,3475,Pending
+479,2026-04-24,Eastern Cape,Health Insurance,37378,Approved
+480,2026-04-25,KwaZulu-Natal,Home Insurance,5255,Pending
+481,2026-04-26,KwaZulu-Natal,Home Insurance,15484,Rejected
+482,2026-04-27,Mpumalanga,Life Insurance,35503,Approved
+483,2026-04-28,Limpopo,Life Insurance,9258,Pending
+484,2026-04-29,Mpumalanga,Motor Vehicle,41747,Rejected
+485,2026-04-30,Limpopo,Motor Vehicle,36196,Approved
+486,2026-05-01,Mpumalanga,Health Insurance,46113,Approved
+487,2026-05-02,Gauteng,Health Insurance,41194,Approved
+488,2026-05-03,KwaZulu-Natal,Business Insurance,9533,Pending
+489,2026-05-04,Eastern Cape,Motor Vehicle,33581,Pending
+490,2026-05-05,Limpopo,Home Insurance,6249,Rejected
+491,2026-05-06,North West,Motor Vehicle,20201,Pending
+492,2026-05-07,Limpopo,Home Insurance,10686,Pending
+493,2026-05-08,Eastern Cape,Life Insurance,47877,Approved
+494,2026-05-09,Mpumalanga,Motor Vehicle,33007,Approved
+495,2026-05-10,Limpopo,Life Insurance,1661,Approved
+496,2026-05-11,Northern Cape,Health Insurance,45843,Approved
+497,2026-05-12,Gauteng,Health Insurance,31137,Approved
+498,2026-05-13,KwaZulu-Natal,Business Insurance,48556,Approved
+499,2026-05-14,Eastern Cape,Motor Vehicle,43828,Approved
+500,2026-05-15,KwaZulu-Natal,Life Insurance,49604,Rejected
+501,2026-05-16,Northern Cape,Home Insurance,11526,Rejected
+502,2026-05-17,Limpopo,Health Insurance,4374,Rejected
+503,2026-05-18,Limpopo,Health Insurance,26592,Rejected
+504,2026-05-19,North West,Home Insurance,29982,Approved
+505,2026-05-20,Northern Cape,Life Insurance,1207,Rejected
+506,2026-05-21,Eastern Cape,Life Insurance,36433,Approved
+507,2026-05-22,North West,Motor Vehicle,24197,Rejected
+508,2026-05-23,Gauteng,Motor Vehicle,34400,Pending
+509,2026-05-24,North West,Business Insurance,4083,Rejected
+510,2026-05-25,Free State,Health Insurance,30328,Rejected
+511,2026-05-26,Eastern Cape,Motor Vehicle,47479,Approved
+512,2026-05-27,Free State,Life Insurance,43891,Rejected
+513,2026-05-28,Northern Cape,Home Insurance,21103,Pending
+514,2026-05-29,Mpumalanga,Life Insurance,40891,Approved
+515,2026-05-30,Free State,Health Insurance,11754,Approved
+516,2026-05-31,Gauteng,Life Insurance,35447,Rejected
+517,2026-06-01,North West,Business Insurance,16901,Approved
+518,2026-06-02,Mpumalanga,Health Insurance,34004,Approved
+519,2026-06-03,North West,Home Insurance,8446,Approved
+520,2026-06-04,Free State,Business Insurance,38211,Approved
+521,2026-06-05,North West,Health Insurance,49231,Approved
+522,2026-06-06,Northern Cape,Home Insurance,30301,Approved
+523,2026-06-07,Mpumalanga,Business Insurance,27116,Pending
+524,2026-06-08,Northern Cape,Business Insurance,42323,Rejected
+525,2026-06-09,Free State,Health Insurance,19752,Pending
+526,2026-06-10,Northern Cape,Motor Vehicle,33376,Approved
+527,2026-06-11,Gauteng,Business Insurance,17669,Approved
+528,2026-06-12,Free State,Business Insurance,33916,Rejected
+529,2026-06-13,Free State,Home Insurance,14395,Pending
+530,2026-06-14,Free State,Life Insurance,21421,Rejected
+531,2026-06-15,Eastern Cape,Health Insurance,27342,Pending
+532,2026-06-16,North West,Health Insurance,5895,Approved
+533,2026-06-17,Eastern Cape,Motor Vehicle,12023,Rejected
+534,2026-06-18,Eastern Cape,Motor Vehicle,11699,Rejected
+535,2026-06-19,Gauteng,Health Insurance,10715,Approved
+536,2026-06-20,Mpumalanga,Motor Vehicle,20169,Rejected
+537,2026-06-21,North West,Home Insurance,17163,Pending
+538,2026-06-22,Northern Cape,Health Insurance,6782,Pending
+539,2026-06-23,Limpopo,Motor Vehicle,23641,Pending
+540,2026-06-24,Free State,Health Insurance,19792,Pending
+541,2026-06-25,Northern Cape,Life Insurance,36585,Approved
+542,2026-06-26,Free State,Business Insurance,31682,Rejected
+543,2026-06-27,Gauteng,Health Insurance,48864,Pending
+544,2026-06-28,Free State,Business Insurance,19880,Approved
+545,2026-06-29,Eastern Cape,Motor Vehicle,39067,Rejected
+546,2026-06-30,North West,Business Insurance,43685,Rejected
+547,2026-07-01,Limpopo,Health Insurance,19073,Approved
+548,2026-07-02,KwaZulu-Natal,Life Insurance,37035,Approved
+549,2026-07-03,Free State,Motor Vehicle,38174,Pending
+550,2026-07-04,Northern Cape,Health Insurance,25837,Rejected
+551,2026-07-05,Eastern Cape,Motor Vehicle,18826,Rejected
+552,2026-07-06,KwaZulu-Natal,Home Insurance,25981,Approved
+553,2026-07-07,Limpopo,Business Insurance,11382,Rejected
+554,2026-07-08,KwaZulu-Natal,Home Insurance,5437,Pending
+555,2026-07-09,Eastern Cape,Health Insurance,6435,Rejected
+556,2026-07-10,North West,Life Insurance,25819,Approved
+557,2026-07-11,North West,Motor Vehicle,37875,Approved
+558,2026-07-12,Mpumalanga,Business Insurance,32982,Pending
+559,2026-07-13,North West,Motor Vehicle,34328,Pending
+560,2026-07-14,Mpumalanga,Health Insurance,13329,Rejected
+561,2026-07-15,KwaZulu-Natal,Motor Vehicle,26169,Rejected
+562,2026-07-16,Gauteng,Business Insurance,22932,Approved
+563,2026-07-17,Northern Cape,Health Insurance,35594,Pending
+564,2026-07-18,Northern Cape,Motor Vehicle,12421,Pending
+565,2026-07-19,KwaZulu-Natal,Life Insurance,46033,Pending
+566,2026-07-20,Free State,Health Insurance,8629,Rejected
+567,2026-07-21,Free State,Health Insurance,9325,Pending
+568,2026-07-22,North West,Life Insurance,29495,Approved
+569,2026-07-23,Northern Cape,Home Insurance,32750,Approved
+570,2026-07-24,Northern Cape,Business Insurance,30619,Rejected
+571,2026-07-25,Mpumalanga,Home Insurance,41461,Rejected
+572,2026-07-26,Gauteng,Motor Vehicle,9264,Pending
+573,2026-07-27,Eastern Cape,Life Insurance,13686,Rejected
+574,2026-07-28,Free State,Home Insurance,47484,Approved
+575,2026-07-29,Northern Cape,Health Insurance,25226,Pending
+576,2026-07-30,Mpumalanga,Motor Vehicle,7721,Approved
+577,2026-07-31,Limpopo,Motor Vehicle,21609,Pending
+578,2026-08-01,Mpumalanga,Home Insurance,8373,Rejected
+579,2026-08-02,Free State,Home Insurance,39675,Pending
+580,2026-08-03,Free State,Life Insurance,49895,Pending
+581,2026-08-04,Mpumalanga,Business Insurance,29937,Approved
+582,2026-08-05,Eastern Cape,Home Insurance,6656,Approved
+583,2026-08-06,KwaZulu-Natal,Home Insurance,9984,Pending
+584,2026-08-07,Free State,Health Insurance,30984,Rejected
+585,2026-08-08,Mpumalanga,Motor Vehicle,9286,Rejected
+586,2026-08-09,Northern Cape,Business Insurance,6901,Approved
+587,2026-08-10,Mpumalanga,Health Insurance,32552,Rejected
+588,2026-08-11,Gauteng,Life Insurance,26709,Approved
+589,2026-08-12,KwaZulu-Natal,Life Insurance,32055,Rejected
+590,2026-08-13,Limpopo,Home Insurance,38685,Pending
+591,2026-08-14,Eastern Cape,Home Insurance,9429,Approved
+592,2026-08-15,North West,Life Insurance,15716,Approved
+593,2026-08-16,Limpopo,Home Insurance,49563,Pending
+594,2026-08-17,KwaZulu-Natal,Business Insurance,12138,Approved
+595,2026-08-18,KwaZulu-Natal,Home Insurance,36298,Rejected
+596,2026-08-19,KwaZulu-Natal,Motor Vehicle,24429,Rejected
+597,2026-08-20,Limpopo,Home Insurance,6772,Approved
+598,2026-08-21,Northern Cape,Health Insurance,49244,Rejected
+599,2026-08-22,KwaZulu-Natal,Business Insurance,49519,Approved
+600,2026-08-23,Mpumalanga,Health Insurance,36732,Pending
+601,2026-08-24,Limpopo,Health Insurance,40905,Approved
+602,2026-08-25,North West,Motor Vehicle,18347,Pending
+603,2026-08-26,KwaZulu-Natal,Business Insurance,17920,Rejected
+604,2026-08-27,Mpumalanga,Business Insurance,32822,Pending
+605,2026-08-28,Northern Cape,Business Insurance,47659,Rejected
+606,2026-08-29,Gauteng,Business Insurance,41108,Approved
+607,2026-08-30,Northern Cape,Business Insurance,24563,Rejected
+608,2026-08-31,North West,Motor Vehicle,8967,Approved
+609,2026-09-01,KwaZulu-Natal,Home Insurance,46183,Approved
+610,2026-09-02,North West,Health Insurance,12871,Pending
+611,2026-09-03,Limpopo,Business Insurance,29763,Pending
+612,2026-09-04,Free State,Home Insurance,12916,Pending
+613,2026-09-05,KwaZulu-Natal,Home Insurance,9734,Pending
+614,2026-09-06,Free State,Health Insurance,34613,Rejected
+615,2026-09-07,Mpumalanga,Motor Vehicle,29179,Rejected
+616,2026-09-08,Gauteng,Life Insurance,36262,Rejected
+617,2026-09-09,Eastern Cape,Life Insurance,13677,Approved
+618,2026-09-10,North West,Home Insurance,19268,Rejected
+619,2026-09-11,Northern Cape,Health Insurance,13330,Rejected
+620,2026-09-12,Gauteng,Life Insurance,21733,Rejected
+621,2026-09-13,KwaZulu-Natal,Home Insurance,38947,Pending
+622,2026-09-14,Free State,Motor Vehicle,28286,Rejected
+623,2026-09-15,Northern Cape,Life Insurance,7610,Approved
+624,2026-09-16,Free State,Home Insurance,7430,Pending
+625,2026-09-17,Limpopo,Home Insurance,40922,Approved
+626,2026-09-18,Free State,Business Insurance,14828,Rejected
+627,2026-09-19,Limpopo,Motor Vehicle,43913,Pending
+628,2026-09-20,Mpumalanga,Business Insurance,32497,Approved
+629,2026-09-21,Northern Cape,Health Insurance,40256,Rejected
+630,2026-09-22,Northern Cape,Business Insurance,37618,Approved
+631,2026-09-23,Eastern Cape,Business Insurance,47332,Approved
+632,2026-09-24,KwaZulu-Natal,Life Insurance,27526,Approved
+633,2026-09-25,Limpopo,Home Insurance,31158,Rejected
+634,2026-09-26,Eastern Cape,Motor Vehicle,26032,Rejected
+635,2026-09-27,Free State,Business Insurance,38846,Approved
+636,2026-09-28,Free State,Motor Vehicle,45936,Pending
+637,2026-09-29,Eastern Cape,Business Insurance,30794,Pending
+638,2026-09-30,Northern Cape,Health Insurance,6448,Rejected
+639,2026-10-01,Free State,Business Insurance,29861,Rejected
+640,2026-10-02,North West,Life Insurance,29141,Rejected
+641,2026-10-03,Mpumalanga,Home Insurance,10074,Rejected
+642,2026-10-04,Mpumalanga,Health Insurance,7406,Rejected
+643,2026-10-05,North West,Business Insurance,32823,Pending
+644,2026-10-06,Eastern Cape,Motor Vehicle,24291,Rejected
+645,2026-10-07,North West,Health Insurance,42568,Approved
+646,2026-10-08,Limpopo,Health Insurance,33003,Approved
+647,2026-10-09,Limpopo,Business Insurance,47851,Pending
+648,2026-10-10,Eastern Cape,Health Insurance,35406,Approved
+649,2026-10-11,North West,Motor Vehicle,24312,Pending
+650,2026-10-12,Limpopo,Health Insurance,44108,Pending
+651,2026-10-13,Northern Cape,Motor Vehicle,2382,Approved
+652,2026-10-14,North West,Business Insurance,35171,Rejected
+653,2026-10-15,Northern Cape,Home Insurance,42779,Approved
+654,2026-10-16,Limpopo,Health Insurance,4292,Approved
+655,2026-10-17,Mpumalanga,Home Insurance,42779,Pending
+656,2026-10-18,Limpopo,Motor Vehicle,34187,Approved
+657,2026-10-19,Northern Cape,Health Insurance,13411,Pending
+658,2026-10-20,Gauteng,Life Insurance,38285,Rejected
+659,2026-10-21,KwaZulu-Natal,Home Insurance,16422,Rejected
+660,2026-10-22,Free State,Health Insurance,43468,Rejected
+661,2026-10-23,North West,Home Insurance,33371,Approved
+662,2026-10-24,Gauteng,Health Insurance,6693,Pending
+663,2026-10-25,Limpopo,Business Insurance,34535,Rejected
+664,2026-10-26,Mpumalanga,Home Insurance,15818,Pending
+665,2026-10-27,Eastern Cape,Life Insurance,32238,Pending
+666,2026-10-28,Limpopo,Life Insurance,31874,Rejected
+667,2026-10-29,Mpumalanga,Motor Vehicle,27715,Rejected
+668,2026-10-30,KwaZulu-Natal,Health Insurance,28605,Pending
+669,2026-10-31,Limpopo,Home Insurance,35317,Rejected
+670,2026-11-01,Northern Cape,Motor Vehicle,32174,Pending
+671,2026-11-02,Eastern Cape,Home Insurance,10956,Pending
+672,2026-11-03,Mpumalanga,Health Insurance,39908,Rejected
+673,2026-11-04,Mpumalanga,Life Insurance,11837,Approved
+674,2026-11-05,Mpumalanga,Business Insurance,4716,Rejected
+675,2026-11-06,KwaZulu-Natal,Life Insurance,5481,Approved
+676,2026-11-07,Limpopo,Motor Vehicle,25282,Pending
+677,2026-11-08,KwaZulu-Natal,Business Insurance,7548,Pending
+678,2026-11-09,North West,Motor Vehicle,38605,Approved
+679,2026-11-10,Free State,Health Insurance,8758,Pending
+680,2026-11-11,Free State,Business Insurance,44668,Approved
+681,2026-11-12,North West,Motor Vehicle,24177,Approved
+682,2026-11-13,Limpopo,Health Insurance,25022,Pending
+683,2026-11-14,Northern Cape,Life Insurance,41761,Approved
+684,2026-11-15,KwaZulu-Natal,Health Insurance,6542,Rejected
+685,2026-11-16,Eastern Cape,Home Insurance,26476,Rejected
+686,2026-11-17,Mpumalanga,Health Insurance,31784,Pending
+687,2026-11-18,Mpumalanga,Health Insurance,23740,Pending
+688,2026-11-19,Limpopo,Home Insurance,25817,Approved
+689,2026-11-20,Northern Cape,Motor Vehicle,48596,Approved
+690,2026-11-21,Free State,Motor Vehicle,17052,Approved
+691,2026-11-22,Free State,Health Insurance,36153,Approved
+692,2026-11-23,Mpumalanga,Home Insurance,48076,Rejected
+693,2026-11-24,Limpopo,Home Insurance,1671,Rejected
+694,2026-11-25,KwaZulu-Natal,Life Insurance,1163,Pending
+695,2026-11-26,Free State,Motor Vehicle,42424,Approved
+696,2026-11-27,KwaZulu-Natal,Business Insurance,45002,Approved
+697,2026-11-28,Northern Cape,Motor Vehicle,5795,Pending
+698,2026-11-29,Free State,Motor Vehicle,11634,Approved
+699,2026-11-30,Free State,Life Insurance,5798,Approved
+700,2026-12-01,Gauteng,Business Insurance,23420,Approved
+701,2026-12-02,Free State,Life Insurance,30300,Approved
+702,2026-12-03,North West,Business Insurance,25345,Approved
+703,2026-12-04,Eastern Cape,Health Insurance,11749,Pending
+704,2026-12-05,North West,Business Insurance,39595,Approved
+705,2026-12-06,Limpopo,Life Insurance,26121,Pending
+706,2026-12-07,Limpopo,Motor Vehicle,38487,Approved
+707,2026-12-08,KwaZulu-Natal,Business Insurance,29411,Rejected
+708,2026-12-09,North West,Business Insurance,34361,Rejected
+709,2026-12-10,North West,Home Insurance,22223,Rejected
+710,2026-12-11,North West,Motor Vehicle,8394,Rejected
+711,2026-12-12,Northern Cape,Health Insurance,15056,Pending
+712,2026-12-13,Free State,Life Insurance,29380,Pending
+713,2026-12-14,Eastern Cape,Health Insurance,27035,Approved
+714,2026-12-15,KwaZulu-Natal,Motor Vehicle,31620,Rejected
+715,2026-12-16,North West,Business Insurance,20877,Pending
+716,2026-12-17,North West,Business Insurance,44404,Approved
+717,2026-12-18,Gauteng,Motor Vehicle,31911,Approved
+718,2026-12-19,KwaZulu-Natal,Business Insurance,33784,Pending
+719,2026-12-20,North West,Business Insurance,4191,Rejected
+720,2026-12-21,KwaZulu-Natal,Business Insurance,34160,Approved
+721,2026-12-22,Free State,Life Insurance,26000,Rejected
+722,2026-12-23,Gauteng,Life Insurance,40040,Rejected
+723,2026-12-24,KwaZulu-Natal,Home Insurance,4631,Rejected
+724,2026-12-25,Eastern Cape,Health Insurance,7172,Approved
+725,2026-12-26,Eastern Cape,Motor Vehicle,43080,Rejected
+726,2026-12-27,Limpopo,Motor Vehicle,24561,Approved
+727,2026-12-28,Gauteng,Motor Vehicle,25817,Rejected
+728,2026-12-29,Gauteng,Home Insurance,21281,Approved
+729,2026-12-30,Limpopo,Life Insurance,29671,Rejected
+730,2026-12-31,KwaZulu-Natal,Home Insurance,26364,Pending
+731,2027-01-01,Gauteng,Motor Vehicle,42674,Rejected
+732,2027-01-02,Eastern Cape,Health Insurance,28425,Rejected
+733,2027-01-03,Eastern Cape,Business Insurance,29602,Approved
+734,2027-01-04,North West,Life Insurance,24253,Approved
+735,2027-01-05,Free State,Life Insurance,24472,Rejected
+736,2027-01-06,Gauteng,Home Insurance,9080,Pending
+737,2027-01-07,KwaZulu-Natal,Life Insurance,8099,Pending
+738,2027-01-08,Limpopo,Motor Vehicle,26431,Approved
+739,2027-01-09,Limpopo,Motor Vehicle,32186,Pending
+740,2027-01-10,KwaZulu-Natal,Home Insurance,48684,Rejected
+741,2027-01-11,Northern Cape,Motor Vehicle,31111,Approved
+742,2027-01-12,Mpumalanga,Health Insurance,40851,Rejected
+743,2027-01-13,Free State,Home Insurance,23614,Approved
+744,2027-01-14,Limpopo,Health Insurance,27724,Approved
+745,2027-01-15,Gauteng,Business Insurance,42991,Approved
+746,2027-01-16,Free State,Health Insurance,5940,Approved
+747,2027-01-17,Gauteng,Business Insurance,29758,Pending
+748,2027-01-18,Northern Cape,Business Insurance,37224,Rejected
+749,2027-01-19,Eastern Cape,Health Insurance,8788,Rejected
+750,2027-01-20,Free State,Home Insurance,29082,Rejected
+751,2027-01-21,North West,Motor Vehicle,25034,Approved
+752,2027-01-22,Limpopo,Motor Vehicle,36479,Pending
+753,2027-01-23,Free State,Business Insurance,12280,Rejected
+754,2027-01-24,Free State,Business Insurance,19052,Pending
+755,2027-01-25,Free State,Home Insurance,17531,Approved
+756,2027-01-26,Mpumalanga,Life Insurance,23804,Rejected
+757,2027-01-27,Free State,Health Insurance,29903,Pending
+758,2027-01-28,Gauteng,Business Insurance,45857,Approved
+759,2027-01-29,Eastern Cape,Motor Vehicle,11142,Pending
+760,2027-01-30,Northern Cape,Home Insurance,49355,Rejected
+761,2027-01-31,KwaZulu-Natal,Health Insurance,10866,Rejected
+762,2027-02-01,Free State,Home Insurance,5531,Approved
+763,2027-02-02,Limpopo,Health Insurance,46454,Approved
+764,2027-02-03,Free State,Health Insurance,39098,Approved
+765,2027-02-04,Limpopo,Business Insurance,39278,Pending
+766,2027-02-05,Gauteng,Home Insurance,29138,Pending
+767,2027-02-06,Limpopo,Home Insurance,28065,Pending
+768,2027-02-07,North West,Motor Vehicle,30956,Approved
+769,2027-02-08,KwaZulu-Natal,Motor Vehicle,42732,Rejected
+770,2027-02-09,Eastern Cape,Business Insurance,40261,Rejected
+771,2027-02-10,Limpopo,Business Insurance,11759,Pending
+772,2027-02-11,Limpopo,Life Insurance,6439,Pending
+773,2027-02-12,Eastern Cape,Motor Vehicle,48241,Rejected
+774,2027-02-13,KwaZulu-Natal,Health Insurance,43533,Rejected
+775,2027-02-14,Free State,Home Insurance,29270,Pending
+776,2027-02-15,Limpopo,Business Insurance,14279,Pending
+777,2027-02-16,Eastern Cape,Home Insurance,40279,Rejected
+778,2027-02-17,North West,Home Insurance,45251,Approved
+779,2027-02-18,North West,Life Insurance,24888,Pending
+780,2027-02-19,Gauteng,Motor Vehicle,18630,Rejected
+781,2027-02-20,Eastern Cape,Business Insurance,36144,Rejected
+782,2027-02-21,Gauteng,Home Insurance,32182,Rejected
+783,2027-02-22,North West,Business Insurance,26538,Rejected
+784,2027-02-23,KwaZulu-Natal,Health Insurance,12824,Approved
+785,2027-02-24,Free State,Life Insurance,33125,Rejected
+786,2027-02-25,Eastern Cape,Health Insurance,7979,Pending
+787,2027-02-26,Northern Cape,Business Insurance,27189,Approved
+788,2027-02-27,North West,Business Insurance,43600,Rejected
+789,2027-02-28,North West,Motor Vehicle,13504,Approved
+790,2027-03-01,Northern Cape,Home Insurance,21669,Pending
+791,2027-03-02,Mpumalanga,Home Insurance,7910,Rejected
+792,2027-03-03,North West,Health Insurance,47857,Pending
+793,2027-03-04,Limpopo,Life Insurance,35964,Rejected
+794,2027-03-05,KwaZulu-Natal,Home Insurance,21131,Rejected
+795,2027-03-06,Eastern Cape,Motor Vehicle,26227,Rejected
+796,2027-03-07,Northern Cape,Health Insurance,6978,Rejected
+797,2027-03-08,Limpopo,Health Insurance,22991,Rejected
+798,2027-03-09,Northern Cape,Motor Vehicle,18153,Approved
+799,2027-03-10,Eastern Cape,Life Insurance,34548,Rejected
+800,2027-03-11,Gauteng,Motor Vehicle,43676,Rejected
+801,2027-03-12,Eastern Cape,Life Insurance,40071,Approved
+802,2027-03-13,Mpumalanga,Motor Vehicle,48454,Approved
+803,2027-03-14,Eastern Cape,Motor Vehicle,4983,Approved
+804,2027-03-15,Eastern Cape,Business Insurance,10503,Approved
+805,2027-03-16,Mpumalanga,Health Insurance,30921,Approved
+806,2027-03-17,KwaZulu-Natal,Motor Vehicle,17905,Approved
+807,2027-03-18,North West,Motor Vehicle,46838,Rejected
+808,2027-03-19,Eastern Cape,Home Insurance,24953,Rejected
+809,2027-03-20,Mpumalanga,Health Insurance,27806,Pending
+810,2027-03-21,Limpopo,Home Insurance,46000,Rejected
+811,2027-03-22,Gauteng,Health Insurance,23168,Rejected
+812,2027-03-23,Gauteng,Home Insurance,5583,Approved
+813,2027-03-24,Eastern Cape,Motor Vehicle,39714,Approved
+814,2027-03-25,KwaZulu-Natal,Motor Vehicle,40896,Rejected
+815,2027-03-26,KwaZulu-Natal,Business Insurance,12889,Pending
+816,2027-03-27,Limpopo,Home Insurance,28413,Approved
+817,2027-03-28,Eastern Cape,Life Insurance,13275,Rejected
+818,2027-03-29,Gauteng,Business Insurance,3461,Rejected
+819,2027-03-30,KwaZulu-Natal,Home Insurance,15291,Pending
+820,2027-03-31,Eastern Cape,Home Insurance,47804,Pending
+821,2027-04-01,Northern Cape,Business Insurance,12435,Approved
+822,2027-04-02,KwaZulu-Natal,Motor Vehicle,28935,Pending
+823,2027-04-03,Mpumalanga,Home Insurance,34453,Rejected
+824,2027-04-04,Northern Cape,Motor Vehicle,19544,Rejected
+825,2027-04-05,North West,Business Insurance,13258,Pending
+826,2027-04-06,KwaZulu-Natal,Motor Vehicle,31841,Pending
+827,2027-04-07,Gauteng,Health Insurance,49758,Pending
+828,2027-04-08,Free State,Life Insurance,11736,Pending
+829,2027-04-09,Northern Cape,Home Insurance,38643,Approved
+830,2027-04-10,North West,Life Insurance,44950,Pending
+831,2027-04-11,Limpopo,Motor Vehicle,35964,Approved
+832,2027-04-12,Limpopo,Home Insurance,29044,Rejected
+833,2027-04-13,Gauteng,Motor Vehicle,40933,Pending
+834,2027-04-14,KwaZulu-Natal,Health Insurance,16997,Approved
+835,2027-04-15,Eastern Cape,Business Insurance,15215,Pending
+836,2027-04-16,KwaZulu-Natal,Home Insurance,34069,Rejected
+837,2027-04-17,Gauteng,Health Insurance,24911,Rejected
+838,2027-04-18,Limpopo,Health Insurance,18030,Rejected
+839,2027-04-19,KwaZulu-Natal,Home Insurance,30334,Pending
+840,2027-04-20,Limpopo,Motor Vehicle,15571,Pending
+841,2027-04-21,Northern Cape,Health Insurance,43719,Approved
+842,2027-04-22,North West,Life Insurance,29927,Rejected
+843,2027-04-23,Eastern Cape,Health Insurance,21714,Pending
+844,2027-04-24,Northern Cape,Motor Vehicle,44541,Rejected
+845,2027-04-25,Limpopo,Motor Vehicle,24387,Rejected
+846,2027-04-26,Limpopo,Life Insurance,29444,Approved
+847,2027-04-27,Free State,Health Insurance,49908,Approved
+848,2027-04-28,Free State,Motor Vehicle,20921,Approved
+849,2027-04-29,Northern Cape,Home Insurance,14057,Approved
+850,2027-04-30,Mpumalanga,Business Insurance,46268,Rejected
+851,2027-05-01,Northern Cape,Business Insurance,25858,Approved
+852,2027-05-02,Free State,Business Insurance,49689,Approved
+853,2027-05-03,Limpopo,Health Insurance,45638,Approved
+854,2027-05-04,Gauteng,Life Insurance,27062,Approved
+855,2027-05-05,Northern Cape,Motor Vehicle,37850,Rejected
+856,2027-05-06,Limpopo,Home Insurance,47486,Approved
+857,2027-05-07,Gauteng,Home Insurance,21567,Rejected
+858,2027-05-08,Gauteng,Health Insurance,30739,Pending
+859,2027-05-09,Free State,Business Insurance,44285,Rejected
+860,2027-05-10,Northern Cape,Health Insurance,4754,Rejected
+861,2027-05-11,KwaZulu-Natal,Life Insurance,28044,Approved
+862,2027-05-12,Eastern Cape,Life Insurance,2724,Pending
+863,2027-05-13,Free State,Motor Vehicle,2376,Pending
+864,2027-05-14,Free State,Motor Vehicle,9706,Pending
+865,2027-05-15,KwaZulu-Natal,Life Insurance,9894,Pending
+866,2027-05-16,Eastern Cape,Life Insurance,19037,Rejected
+867,2027-05-17,Limpopo,Life Insurance,19450,Pending
+868,2027-05-18,Mpumalanga,Health Insurance,17406,Rejected
+869,2027-05-19,Northern Cape,Life Insurance,30725,Rejected
+870,2027-05-20,Mpumalanga,Home Insurance,6926,Rejected
+871,2027-05-21,Limpopo,Business Insurance,40019,Pending
+872,2027-05-22,North West,Life Insurance,10496,Approved
+873,2027-05-23,Free State,Business Insurance,37068,Approved
+874,2027-05-24,Eastern Cape,Health Insurance,30806,Pending
+875,2027-05-25,Free State,Business Insurance,23663,Approved
+876,2027-05-26,Gauteng,Health Insurance,42321,Approved
+877,2027-05-27,Free State,Home Insurance,37495,Rejected
+878,2027-05-28,Free State,Health Insurance,23656,Rejected
+879,2027-05-29,Limpopo,Health Insurance,26860,Pending
+880,2027-05-30,Limpopo,Motor Vehicle,17832,Pending
+881,2027-05-31,Limpopo,Life Insurance,39787,Approved
+882,2027-06-01,Mpumalanga,Life Insurance,49231,Rejected
+883,2027-06-02,Gauteng,Home Insurance,22727,Pending
+884,2027-06-03,North West,Home Insurance,43815,Pending
+885,2027-06-04,North West,Life Insurance,30545,Pending
+886,2027-06-05,Limpopo,Motor Vehicle,45522,Pending
+887,2027-06-06,Eastern Cape,Life Insurance,3520,Pending
+888,2027-06-07,Mpumalanga,Motor Vehicle,4081,Pending
+889,2027-06-08,KwaZulu-Natal,Home Insurance,35196,Approved
+890,2027-06-09,Eastern Cape,Business Insurance,37735,Rejected
+891,2027-06-10,Northern Cape,Home Insurance,40213,Rejected
+892,2027-06-11,Northern Cape,Home Insurance,15566,Pending
+893,2027-06-12,Eastern Cape,Health Insurance,15042,Rejected
+894,2027-06-13,Limpopo,Health Insurance,26498,Rejected
+895,2027-06-14,KwaZulu-Natal,Health Insurance,12329,Rejected
+896,2027-06-15,KwaZulu-Natal,Health Insurance,32656,Pending
+897,2027-06-16,Mpumalanga,Motor Vehicle,3159,Pending
+898,2027-06-17,KwaZulu-Natal,Life Insurance,38900,Rejected
+899,2027-06-18,Northern Cape,Business Insurance,20363,Rejected
+900,2027-06-19,Gauteng,Home Insurance,48701,Pending
+901,2027-06-20,Limpopo,Motor Vehicle,44241,Approved
+902,2027-06-21,KwaZulu-Natal,Business Insurance,20033,Rejected
+903,2027-06-22,Mpumalanga,Motor Vehicle,11805,Approved
+904,2027-06-23,Northern Cape,Motor Vehicle,36851,Rejected
+905,2027-06-24,Gauteng,Home Insurance,27832,Approved
+906,2027-06-25,Free State,Life Insurance,14944,Approved
+907,2027-06-26,Free State,Health Insurance,20873,Approved
+908,2027-06-27,Gauteng,Life Insurance,41372,Pending
+909,2027-06-28,Northern Cape,Home Insurance,24928,Approved
+910,2027-06-29,Mpumalanga,Home Insurance,16379,Approved
+911,2027-06-30,Gauteng,Home Insurance,37751,Approved
+912,2027-07-01,Limpopo,Business Insurance,35546,Rejected
+913,2027-07-02,Limpopo,Life Insurance,25286,Approved
+914,2027-07-03,Free State,Life Insurance,6110,Rejected
+915,2027-07-04,KwaZulu-Natal,Motor Vehicle,13087,Approved
+916,2027-07-05,Mpumalanga,Motor Vehicle,24762,Approved
+917,2027-07-06,Free State,Motor Vehicle,18081,Pending
+918,2027-07-07,KwaZulu-Natal,Home Insurance,35947,Rejected
+919,2027-07-08,KwaZulu-Natal,Life Insurance,10596,Approved
+920,2027-07-09,North West,Home Insurance,39019,Rejected
+921,2027-07-10,Limpopo,Business Insurance,43003,Rejected
+922,2027-07-11,Northern Cape,Motor Vehicle,19313,Pending
+923,2027-07-12,Eastern Cape,Home Insurance,48639,Pending
+924,2027-07-13,Northern Cape,Home Insurance,2013,Pending
+925,2027-07-14,Eastern Cape,Business Insurance,24705,Pending
+926,2027-07-15,Gauteng,Health Insurance,2828,Pending
+927,2027-07-16,Limpopo,Life Insurance,8909,Pending
+928,2027-07-17,KwaZulu-Natal,Health Insurance,39356,Pending
+929,2027-07-18,Mpumalanga,Motor Vehicle,14109,Pending
+930,2027-07-19,Eastern Cape,Home Insurance,3023,Approved
+931,2027-07-20,Northern Cape,Business Insurance,15537,Rejected
+932,2027-07-21,KwaZulu-Natal,Business Insurance,27661,Pending
+933,2027-07-22,Eastern Cape,Life Insurance,39659,Pending
+934,2027-07-23,Eastern Cape,Health Insurance,34848,Rejected
+935,2027-07-24,North West,Life Insurance,38804,Approved
+936,2027-07-25,Eastern Cape,Home Insurance,16379,Rejected
+937,2027-07-26,Mpumalanga,Life Insurance,28766,Rejected
+938,2027-07-27,Limpopo,Business Insurance,44590,Pending
+939,2027-07-28,Mpumalanga,Business Insurance,3563,Rejected
+940,2027-07-29,Free State,Motor Vehicle,37060,Rejected
+941,2027-07-30,KwaZulu-Natal,Motor Vehicle,30197,Pending
+942,2027-07-31,Limpopo,Home Insurance,4586,Pending
+943,2027-08-01,North West,Health Insurance,17087,Pending
+944,2027-08-02,Limpopo,Life Insurance,49868,Pending
+945,2027-08-03,Limpopo,Home Insurance,24225,Rejected
+946,2027-08-04,Northern Cape,Motor Vehicle,30750,Rejected
+947,2027-08-05,Limpopo,Life Insurance,7643,Approved
+948,2027-08-06,North West,Motor Vehicle,28523,Approved
+949,2027-08-07,Mpumalanga,Life Insurance,37727,Rejected
+950,2027-08-08,Limpopo,Health Insurance,12005,Approved
+951,2027-08-09,Gauteng,Home Insurance,44543,Rejected
+952,2027-08-10,KwaZulu-Natal,Life Insurance,1161,Approved
+953,2027-08-11,Limpopo,Business Insurance,17029,Pending
+954,2027-08-12,KwaZulu-Natal,Business Insurance,15226,Approved
+955,2027-08-13,Gauteng,Life Insurance,29731,Pending
+956,2027-08-14,Gauteng,Life Insurance,44922,Pending
+957,2027-08-15,KwaZulu-Natal,Life Insurance,45848,Pending
+958,2027-08-16,Eastern Cape,Business Insurance,4390,Pending
+959,2027-08-17,Free State,Business Insurance,6997,Approved
+960,2027-08-18,Northern Cape,Life Insurance,13693,Rejected
+961,2027-08-19,Eastern Cape,Motor Vehicle,43092,Pending
+962,2027-08-20,Eastern Cape,Motor Vehicle,1541,Approved
+963,2027-08-21,Mpumalanga,Health Insurance,22817,Pending
+964,2027-08-22,Northern Cape,Home Insurance,38861,Approved
+965,2027-08-23,Northern Cape,Motor Vehicle,14428,Approved
+966,2027-08-24,Eastern Cape,Business Insurance,44934,Approved
+967,2027-08-25,Limpopo,Motor Vehicle,49831,Rejected
+968,2027-08-26,Mpumalanga,Health Insurance,11258,Approved
+969,2027-08-27,Mpumalanga,Health Insurance,17044,Approved
+970,2027-08-28,Gauteng,Home Insurance,30411,Rejected
+971,2027-08-29,North West,Motor Vehicle,6469,Rejected
+972,2027-08-30,Northern Cape,Business Insurance,29854,Approved
+973,2027-08-31,Eastern Cape,Business Insurance,7256,Rejected
+974,2027-09-01,Gauteng,Life Insurance,11720,Pending
+975,2027-09-02,KwaZulu-Natal,Business Insurance,34937,Pending
+976,2027-09-03,Free State,Home Insurance,34598,Rejected
+977,2027-09-04,North West,Home Insurance,2651,Rejected
+978,2027-09-05,North West,Business Insurance,20194,Approved
+979,2027-09-06,North West,Business Insurance,26051,Rejected
+980,2027-09-07,Mpumalanga,Life Insurance,28386,Approved
+981,2027-09-08,KwaZulu-Natal,Business Insurance,10518,Pending
+982,2027-09-09,North West,Life Insurance,47026,Rejected
+983,2027-09-10,KwaZulu-Natal,Life Insurance,17184,Approved
+984,2027-09-11,Limpopo,Business Insurance,34787,Approved
+985,2027-09-12,North West,Health Insurance,22621,Pending
+986,2027-09-13,Free State,Health Insurance,11028,Rejected
+987,2027-09-14,KwaZulu-Natal,Life Insurance,13448,Pending
+988,2027-09-15,KwaZulu-Natal,Business Insurance,46253,Approved
+989,2027-09-16,Free State,Health Insurance,35051,Approved
+990,2027-09-17,North West,Business Insurance,31447,Rejected
+991,2027-09-18,Free State,Business Insurance,19394,Approved
+992,2027-09-19,KwaZulu-Natal,Business Insurance,35501,Rejected
+993,2027-09-20,Free State,Motor Vehicle,31254,Pending
+994,2027-09-21,KwaZulu-Natal,Business Insurance,19509,Rejected
+995,2027-09-22,KwaZulu-Natal,Motor Vehicle,49998,Rejected
+996,2027-09-23,Limpopo,Life Insurance,15472,Approved
+997,2027-09-24,Eastern Cape,Health Insurance,46657,Approved
+998,2027-09-25,KwaZulu-Natal,Health Insurance,4471,Rejected
+999,2027-09-26,North West,Health Insurance,42796,Approved
+1000,2027-09-27,Gauteng,Health Insurance,31268,Approved
